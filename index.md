@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Gavensun's blog
 
 You can use the [editor on GitHub](https://github.com/GavenSSS/GavenSSS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
